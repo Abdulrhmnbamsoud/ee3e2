@@ -1,0 +1,6 @@
+{
+  "name": "روحة - Rawha Concierge",
+  "description": "تطبيق روحة للسياحة الذكية، تخطيط الرحلات الفاخرة وتحويل مقاطع الفيديو والأفكار إلى مسارات سفر متكاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
